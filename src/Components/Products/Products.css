@@ -1,0 +1,11 @@
+.all_products{
+  background-color: #1722f0;
+  height: 60px;
+}
+button.delete_btn.bg-danger.border-0.m-0.p-0.btn.btn-primary{
+  padding: 5px!important;
+  padding-top: 0px!important;
+}
+.modal-footer{
+  border-top: 0px;
+}
